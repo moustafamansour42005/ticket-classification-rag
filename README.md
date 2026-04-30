@@ -27,6 +27,4 @@ This project classifies customer support tickets using:
 - IT Helpdesk Classification
 - Smart Email Routing
 
-## 👨‍💻 Author
-Moustafa Mansour
-Communication & Computer Engineer | AI Enthusiast
+
