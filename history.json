@@ -1,0 +1,11 @@
+[
+    {
+        "ticket": "i was charged twice \n",
+        "category": "Billing",
+        "priority": "High",
+        "department": "Finance",
+        "confidence": 0.664,
+        "sentiment": "Neutral",
+        "urgency": "Low"
+    }
+]

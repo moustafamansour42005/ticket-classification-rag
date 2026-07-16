@@ -1,0 +1,203 @@
+/* =========================
+   GLOBAL
+========================= */
+
+html, body, [class*="css"] {
+    font-family: "Segoe UI", sans-serif;
+}
+
+.main {
+    background-color: #f5f7fb;
+}
+
+/* =========================
+   SIDEBAR
+========================= */
+
+section[data-testid="stSidebar"] {
+    background: #1e293b;
+}
+
+section[data-testid="stSidebar"] * {
+    color: white;
+}
+
+/* =========================
+   TITLE
+========================= */
+
+h1 {
+    color: #2563eb;
+    font-weight: 700;
+}
+
+/* =========================
+   BUTTONS
+========================= */
+
+.stButton>button{
+    width:100%;
+    height:48px;
+    border-radius:10px;
+    font-size:17px;
+    font-weight:600;
+}
+
+.stButton > button:hover {
+
+    background: #1d4ed8;
+
+    transform: translateY(-2px);
+
+    box-shadow: 0 4px 12px rgba(0,0,0,.18);
+
+}
+
+/* =========================
+   INPUTS
+========================= */
+
+.stTextInput input,
+.stTextArea textarea{
+    border-radius:12px !important;
+    font-size:16px !important;
+}
+
+.stSelectbox {
+
+    border-radius: 10px !important;
+
+}
+
+/* =========================
+   METRIC CARDS
+========================= */
+
+.metric-card{
+
+    background:white;
+
+    border-radius:15px;
+
+    padding:18px;
+
+    text-align:center;
+
+    box-shadow:0 3px 10px rgba(0,0,0,.08);
+
+    border:1px solid #e5e7eb;
+
+    margin-bottom:12px;
+
+}
+
+.metric-title{
+
+    color:#64748b;
+
+    font-size:13px;
+
+    margin-bottom:6px;
+
+}
+
+.metric-value{
+
+    color:#111827;
+
+    font-size:22px;
+
+    font-weight:700;
+
+}
+
+div[data-testid="stMetric"]{
+    background:#1f2937;
+    border:1px solid #374151;
+    border-radius:12px;
+    padding:12px;
+    text-align:center;
+    min-height:100px;
+}
+
+div[data-testid="stMetricLabel"]{
+    font-size:13px !important;
+    color:#9ca3af !important;
+    font-weight:600;
+}
+
+div[data-testid="stMetricValue"]{
+    font-size:22px !important;
+    font-weight:700 !important;
+    color:white !important;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+/* =========================
+   SUCCESS
+========================= */
+
+.stSuccess{
+
+    border-radius:10px;
+
+}
+
+/* =========================
+   WARNING
+========================= */
+
+.stWarning{
+
+    border-radius:10px;
+
+}
+
+/* =========================
+   INFO
+========================= */
+
+.stInfo{
+
+    border-radius:10px;
+
+}
+
+/* =========================
+   ALERT
+========================= */
+
+.stAlert{
+    border-radius:12px;
+    border:none;
+}
+
+/* =========================
+   EXPANDER
+========================= */
+
+.streamlit-expanderHeader{
+
+    font-weight:600;
+
+}
+
+/* =========================
+   TABLE
+========================= */
+
+thead tr th{
+
+    background:#2563eb !important;
+
+    color:white !important;
+
+}
+
+tbody tr:hover{
+
+    background:#eef4ff;
+
+}
