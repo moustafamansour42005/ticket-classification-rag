@@ -1,0 +1,71 @@
+{
+    "Billing": {
+        "priority": "High",
+        "department": "Finance",
+        "resolution_time": "2 Hours",
+        "solutions": [
+            "Verify payment history",
+            "Check duplicate transactions",
+            "Process refund if necessary",
+            "Notify customer"
+        ]
+    },
+
+    "Technical": {
+        "priority": "High",
+        "department": "Technical Support",
+        "resolution_time": "4 Hours",
+        "solutions": [
+            "Restart the application",
+            "Update to the latest version",
+            "Collect logs",
+            "Escalate to engineering"
+        ]
+    },
+
+    "Login": {
+        "priority": "Medium",
+        "department": "Account Support",
+        "resolution_time": "1 Hour",
+        "solutions": [
+            "Reset password",
+            "Clear browser cache",
+            "Verify account status",
+            "Retry login"
+        ]
+    },
+
+    "Account Access": {
+        "priority": "Medium",
+        "department": "Account Support",
+        "resolution_time": "2 Hours",
+        "solutions": [
+            "Verify user identity",
+            "Unlock account",
+            "Reset credentials",
+            "Notify customer"
+        ]
+    },
+
+    "Feature Request": {
+        "priority": "Low",
+        "department": "Product Team",
+        "resolution_time": "7 Days",
+        "solutions": [
+            "Record customer request",
+            "Forward to product team",
+            "Add to product backlog"
+        ]
+    },
+
+    "General Inquiry": {
+        "priority": "Low",
+        "department": "Customer Support",
+        "resolution_time": "30 Minutes",
+        "solutions": [
+            "Answer customer question",
+            "Provide documentation",
+            "Close ticket"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+ticket_id,text,category
+1,"I was charged twice for my subscription this month, please refund the extra charge",Billing
+2,"My invoice shows a wrong amount, can you correct it",Billing
+3,"I want to cancel my subscription and get a refund for the unused days",Billing
+4,"The payment failed but money was still deducted from my card",Billing
+5,"Why is my monthly bill higher than usual this time",Billing
+6,"I need a copy of my last three invoices for accounting purposes",Billing
+7,"My credit card was declined during checkout, please help",Billing
+8,"I upgraded my plan but I was billed for the old plan price",Billing
+9,"Requesting a refund since the service was down for a week",Billing
+10,"Can I get a discount or coupon code for renewing my annual plan",Billing
+11,"The app keeps crashing every time I try to open the dashboard",Technical Support
+12,"I am getting a 500 server error when uploading files",Technical Support
+13,"The website is extremely slow and pages take forever to load",Technical Support
+14,"I cannot connect to the API, it keeps returning a timeout error",Technical Support
+15,"After the last update, the search feature stopped working",Technical Support
+16,"My reports are not generating and show a blank page",Technical Support
+17,"The mobile app freezes on the login screen",Technical Support
+18,"Getting an error message: null pointer exception when saving data",Technical Support
+19,"Video calls keep disconnecting after a few minutes",Technical Support
+20,"The export to PDF function produces a corrupted file",Technical Support
+21,"I forgot my password and the reset link never arrives in my email",Account Access
+22,"My account got locked after multiple failed login attempts",Account Access
+23,"I cannot log in even though my password is correct",Account Access
+24,"Two factor authentication code is not being received",Account Access
+25,"My account was suspended without any explanation",Account Access
+26,"I need to change the email address linked to my account",Account Access
+27,"Someone else may have accessed my account, please help secure it",Account Access
+28,"I am unable to verify my email to activate my account",Account Access
+29,"My session keeps logging out automatically every few minutes",Account Access
+30,"I need to recover an account that was deleted by mistake",Account Access
+31,"It would be great if the app supported dark mode",Feature Request
+32,"Can you add an option to export data to Excel format",Feature Request
+33,"Please add multi language support for the interface",Feature Request
+34,"I would like the ability to schedule recurring reports",Feature Request
+35,"Can you integrate the platform with Slack notifications",Feature Request
+36,"Requesting a bulk upload feature for large datasets",Feature Request
+37,"It would help to have keyboard shortcuts for common actions",Feature Request
+38,"Please consider adding a mobile widget for quick access",Feature Request
+39,"Can we get role based permissions for team members",Feature Request
+40,"A dark theme and customizable dashboard would improve the experience",Feature Request
+41,"What are your customer support working hours",General Inquiry
+42,"Do you offer student or educational discounts",General Inquiry
+43,"How can I contact your sales team for enterprise pricing",General Inquiry
+44,"Where can I find your terms of service and privacy policy",General Inquiry
+45,"Is there a mobile app available for iOS and Android",General Inquiry
+46,"What integrations does your platform currently support",General Inquiry
+47,"How do I get started as a new user, is there a tutorial",General Inquiry
+48,"Can you tell me more about your data retention policy",General Inquiry
+49,"Do you have an affiliate or partner program",General Inquiry
+50,"Is there a public roadmap for upcoming features",General Inquiry
